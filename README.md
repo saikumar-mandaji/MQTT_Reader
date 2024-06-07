@@ -21,7 +21,7 @@ Navigate to the project directory and run the following commands:
 ### 3.Publising to that topic
 ```bash
 
-    mosquitto_pub -h 10.0.0.6 -t "/events" -m '{"sensor_value":20.2}'
+    mosquitto_pub -h localhost -t "/events" -m '{"sensor_value":20.2}'
 
 
 ```

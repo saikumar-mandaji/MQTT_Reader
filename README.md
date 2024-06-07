@@ -28,8 +28,8 @@ Navigate to the project directory and run the following commands:
 # Output
 ## Publishing from Windows
 
-![plot](./Screenshot/Screenshot 1.png)
+![plot](./Screenshot/Screenshot1.png)
 
 ## Publishing from Raspberry Pi
 
-![plot](./Screenshot/Screenshot 2.png)
+![plot](./Screenshot/Screenshot2.png)

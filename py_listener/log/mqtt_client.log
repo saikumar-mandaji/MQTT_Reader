@@ -76,3 +76,13 @@
 2024-06-07 10:17:37 - gmqtt.client - INFO - [SUBACK] 1 (1,)
 2024-06-07 10:18:00 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
 2024-06-07 10:18:07 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 10:39:32 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 10:39:32 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 10:39:32 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 10:39:32 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 10:39:46 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 10:40:47 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 10:42:48 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 10:42:48 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 10:42:48 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 10:42:49 - gmqtt.client - INFO - [SUBACK] 1 (1,)

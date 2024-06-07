@@ -1,0 +1,78 @@
+2024-06-07 09:01:20 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 09:01:20 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 09:01:20 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 09:01:20 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:01:22 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 09:01:22 - MQTTClient - INFO - a bytes-like object is required, not 'str'
+2024-06-07 09:02:44 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 09:02:44 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 09:02:44 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 09:02:44 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:02:47 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 09:02:47 - MQTTClient - INFO - a bytes-like object is required, not 'str'
+2024-06-07 09:02:52 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 09:02:52 - MQTTClient - INFO - a bytes-like object is required, not 'str'
+2024-06-07 09:04:34 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 09:04:34 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 09:04:34 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 09:04:34 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:04:38 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 14:43:33 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 14:43:33 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 14:43:33 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 14:43:33 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:13:39 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 14:43:53 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 14:44:22 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 14:44:22 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 14:44:22 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 14:44:22 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 14:44:25 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 14:45:29 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 14:45:29 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 14:45:29 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 14:45:29 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:17:26 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 09:17:41 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 09:17:43 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 14:47:46 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 14:47:46 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 14:47:46 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 14:47:46 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 14:47:53 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 14:47:53 - MQTTClient - INFO - Expecting value: line 1 column 1 (char 0)
+2024-06-07 14:48:24 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 14:48:24 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 14:48:24 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 14:48:24 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 14:48:28 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 14:48:28 - MQTTClient - INFO - Expecting value: line 1 column 1 (char 0)
+2024-06-07 14:49:18 - MQTTClient - INFO - Received message on topic '/events': b"{'sensor_value':20.2}"
+2024-06-07 14:49:18 - MQTTClient - INFO - Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-06-07 14:52:54 - MQTTClient - INFO - Received message on topic '/events': b"{'sensor_value':20.2}"
+2024-06-07 14:52:54 - MQTTClient - INFO - Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-06-07 14:53:29 - MQTTClient - INFO - Received message on topic '/events': b"{'sensor_value':20.2}"
+2024-06-07 14:53:29 - MQTTClient - INFO - Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-06-07 09:26:21 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 09:26:21 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 09:26:21 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 09:26:21 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:26:57 - MQTTClient - INFO - Received message on topic '/events': b"{'sensor_value':20.2}"
+2024-06-07 09:36:47 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 09:36:47 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 09:36:47 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 09:36:47 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 09:37:04 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 09:37:35 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 09:55:13 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 09:56:55 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 09:57:24 - MQTTClient - INFO - Received message on topic '/events': b"'{sensor_value:20.2}'"
+2024-06-07 09:58:38 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 09:58:40 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 09:58:43 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 10:17:37 - gmqtt.mqtt.protocol - INFO - [CONNECTION MADE]
+2024-06-07 10:17:37 - MQTTClient - INFO - Connected to MQTT broker
+2024-06-07 10:17:37 - gmqtt.mqtt.package - INFO - [SEND SUB] 1 [b'/events']
+2024-06-07 10:17:37 - gmqtt.client - INFO - [SUBACK] 1 (1,)
+2024-06-07 10:18:00 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
+2024-06-07 10:18:07 - MQTTClient - INFO - Received message on topic '/events': b'{"sensor_value":20}'
